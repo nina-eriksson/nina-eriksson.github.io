@@ -2,12 +2,32 @@
 	background-color: #FF7400;
 } 
 
+.valencia {
+	text-align: left;
+	color: white;
+} 
+
+.stockholm {
+	text-align: left;
+	color: white;
+} 
+
 .progress-bar-stockholm {
 	background-color: #0777C0;
 } 
 
+.geneva {
+	text-align: left;
+	color: white;
+} 
+
 .progress-bar-geneva {
 	background-color: #FF1E00;
+} 
+
+.london {
+	text-align: left;
+	color: white;
 } 
 
 .progress-bar-london {
@@ -32,9 +52,19 @@
 	border: 1px solid lightgray;
 }
 
+.cities {
+	color: white;
+	font-family: 'Raleway', sans-serif;
+}
+
+.kcl {
+	color: white;
+}
+
 .background {
 	text-align: center;
 }
+
 
 body {
 	background-image: url("../img/wallpaper.jpg");
