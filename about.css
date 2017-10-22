@@ -1,0 +1,43 @@
+.progress-bar-valencia {
+	background-color: #FF7400;
+} 
+
+.progress-bar-stockholm {
+	background-color: #0777C0;
+} 
+
+.progress-bar-geneva {
+	background-color: #FF1E00;
+} 
+
+.progress-bar-london {
+	background-color: #6B05A7;
+} 
+
+.img-cirle {
+	width:150px; 
+	height:150px; 
+	border-radius: 100px;
+}	
+
+.progress {
+	margin-top: 0px;
+	margin-bottom: 3px;
+	margin-right: 700px;
+    margin-left: 30px;
+    border: 1px solid lightgray;
+}
+
+.card {
+	border: 1px solid lightgray;
+}
+
+.background {
+	text-align: center;
+}
+
+body {
+	background-image: url("../img/elephants.jpg");
+	max-width: 600px; max-height: 600px
+}
+
