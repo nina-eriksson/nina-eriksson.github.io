@@ -4,6 +4,8 @@
 
 .image {
 	width: 300px; height: 300px;
+	margin-right: 25px;
+	margin-left: 25px;
 }
 
 .one {
@@ -20,6 +22,8 @@
 }
 
 .four {
+	margin-right: 25px;
+	margin-left: 25px;
 }
 
 .five {
